@@ -91,12 +91,24 @@ luggage_dashboard/
 ```
 
 ---
+## 🧱 Architecture
 
+Raw Data (CSV)
+→ Data Cleaning & Preprocessing
+→ Sentiment Analysis (TextBlob)
+→ Feature Engineering (discount %, value score, themes)
+→ Aggregation & Insights
+→ Streamlit Dashboard (UI + Filters + Visualizations)
+
+---
 ## ⚠️ Limitations
 
-* Dataset is a **sample (not full Amazon scrape)**
-* Sentiment analysis uses **TextBlob (basic model)**
-* Theme extraction is **keyword-based**
+* Dataset is limited and not scraped at scale
+* Sentiment analysis uses TextBlob (basic NLP model)
+* Theme extraction is keyword-based, not ML-driven
+* No real-time data updates
+
+
 
 ---
 
@@ -106,6 +118,9 @@ luggage_dashboard/
 * Real-time scraping pipeline
 * Enhanced UI using Plotly
 * Review trust & fake review detection
+* Add real-time dashboard updates
+* Improve theme extraction using clustering or embeddings
+* Detect fake or biased reviews
 
 ---
 
