@@ -127,6 +127,11 @@ luggage_dashboard/
      │ UI + Filters + Visualizations│
      └──────────────────────────────┘
 ```
+---
+
+## 🎥 Project Walkthrough
+
+ * [![Watch the demo](https://cdn.loom.com/sessions/thumbnails/f46d79fd946f4bb7b94174cbccbac7f8-with-play.gif)](https://www.loom.com/share/vf46d79fd946f4bb7b94174cbccbac7f8)
 
 ---
 ## ⚠️ Limitations
