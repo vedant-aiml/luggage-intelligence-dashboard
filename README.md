@@ -131,8 +131,28 @@ luggage_dashboard/
 
 ## 🎥 Project Walkthrough
 
- * [![Watch the demo](https://cdn.loom.com/sessions/thumbnails/f46d79fd946f4bb7b94174cbccbac7f8-with-play.gif)](https://www.loom.com/share/vf46d79fd946f4bb7b94174cbccbac7f8)
+ [![Watch the demo](https://cdn.loom.com/sessions/thumbnails/f46d79fd946f4bb7b94174cbccbac7f8-with-play.gif)](https://www.loom.com/share/vf46d79fd946f4bb7b94174cbccbac7f8)
 
+⏱️ Video Sections (Timestamps)
+
+1. Introduction (0:00 – 0:30)
+Brief overview of the project
+Purpose of the dashboard
+2. Dataset Overview (0:30 – 1:30)
+What data is used
+Key features/columns
+3. Dashboard Overview (1:30 – 3:00)
+Layout explanation
+Key components (charts, filters, KPIs)
+4. Key Insights (3:00 – 4:30)
+Sentiment trends
+Brand comparison highlights
+5. Code Explanation (Optional) (4:30 – 5:30)
+Brief explanation of logic
+Tools/libraries used
+6. Conclusion (5:30 – End)
+Summary of project
+Final thoughts
 ---
 ## ⚠️ Limitations
 
