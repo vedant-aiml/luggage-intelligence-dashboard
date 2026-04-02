@@ -128,7 +128,13 @@ luggage_dashboard/
      └──────────────────────────────┘
 ```
 ---
+# 📊 Sentiment Analysis Dashboard
 
+A dashboard to analyze brand sentiment and compare insights using data visualization.
+
+🌐 **Live Demo:** [Click here to view the live dashboard](App link :https://luggage-intelligence-dashboard-3cehypb9ftovmrmgwjizhg.streamlit.app/)
+
+---
 ## 🎥 Project Walkthrough
 
  [![Watch the demo](https://cdn.loom.com/sessions/thumbnails/f46d79fd946f4bb7b94174cbccbac7f8-with-play.gif)](https://www.loom.com/share/vf46d79fd946f4bb7b94174cbccbac7f8)
