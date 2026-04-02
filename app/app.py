@@ -58,7 +58,7 @@ brand_summary = df.groupby("brand").agg({
 }).reset_index()
 
 brand_summary = brand_summary.round(2)
-brand_summary = brand_summary.sort_values(by="value_score", ascending=False)
+brand_summary = brand_summary.sort_values(by="value_score", ascending=False).reset_index(drop=True)
 
 st.dataframe(brand_summary, use_container_width=True)
 
