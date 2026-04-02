@@ -24,7 +24,7 @@ print(brand_sentiment)
 df["discount_pct"] = ((df["mrp"] - df["price"]) / df["mrp"]) * 100
 
 # Value Score (VERY IMPORTANT)
-df["value_score"] = df["sentiment"] / df["price"]
+df["value_score"] = df["sentiment"] / df["price"] * 1000
 
 # Brand-level summary
 brand_summary = df.groupby("brand").agg({
